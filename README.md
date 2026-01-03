@@ -49,4 +49,4 @@ My projects range from vision-controlled electromechanical systems to computer-v
 ---
 
 📫 Reach me on **LinkedIn**  
-(you can link it here cleanly)
+https://www.linkedin.com/in/pranav-anil-b02199242/
