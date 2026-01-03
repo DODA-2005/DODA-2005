@@ -7,16 +7,16 @@ My projects range from vision-controlled electromechanical systems to computer-v
 ---
 
 ### What I work on
-- 🤖 **Robotics & Embedded Systems**  
+-  **Robotics & Embedded Systems**  
   Microcontrollers, motor control, sensor integration, custom PCBs
 
-- 👁️ **Computer Vision**  
+-  **Computer Vision**  
   Real-time tracking, geometric modeling, vision-based interaction systems
 
-- 🧠 **AI & Intelligent Systems**  
+-  **AI & Intelligent Systems**  
   Practical ML, perception pipelines, system-level integration
 
-- ⚙️ **Hardware–Software Co-design**  
+-  **Hardware–Software Co-design**  
   Designing systems where software constraints are driven by physical behavior
 
 ---
